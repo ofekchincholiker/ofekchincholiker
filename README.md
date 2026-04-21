@@ -31,10 +31,6 @@ Full-stack email platform inspired by Gmail — built for an Advanced Programmin
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/-LightGBM-brightgreen?style=flat)
 
-## 📊 GitHub Stats
-
-![Ofek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofekchincholiker&show_icons=true&theme=dark&hide_border=true)
-
 ---
 
 *Building things I actually care about.*
