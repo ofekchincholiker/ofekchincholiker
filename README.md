@@ -6,7 +6,7 @@ Full-stack developer building sports analytics & AI-powered web apps.
 
 ## 🚀 Projects
 
-### 🏎️ [F1Hub](https://github.com/ofekchincholiker/F1Hub-1)
+### 🏎️ [F1Hub](https://github.com/ofekchincholiker/F1Hub)
 Formula 1 prediction & analysis platform
 - ML model (LightGBM) predicting podium finishes with win probability scores
 - Custom 7-factor weighted prediction engine (circuit history, season form, constructor strength...)
