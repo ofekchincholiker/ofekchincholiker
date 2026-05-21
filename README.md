@@ -18,6 +18,13 @@ Full-stack email platform inspired by Gmail — built for an Advanced Programmin
 - React web client + native Android app (MVVM, Room, Retrofit)
 - Dockerized deployment
 
+### 🎮 [Arkanoid](https://github.com/ofekchincholiker/Arkanoid)
+Classic brick-breaker game built in Java — OOP course @ Bar-Ilan University
+- Splash screen, game over screen & replay loop
+- Observer pattern (HitListener/HitNotifier) for collision events
+- 5-zone paddle physics with angle-based ball deflection
+
+
 ## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
