@@ -1,10 +1,17 @@
 # Hey, I'm Ofek 👋
 
-Full-stack developer building sports analytics & AI-powered web apps.
+Software engineer working across real-time C/C++ systems and AI-powered web applications.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ofek-chincholiker)
 
 ## 🚀 Projects
+
+### 📡 [rt-radar-pipeline](https://github.com/ofekchincholiker/rt-radar-pipeline)
+Real-time radar signal pipeline in C++17 and C99
+- Multithreaded producer-consumer pipeline with a bounded ring buffer and a lock-free SPSC variant (~2× throughput)
+- Moving-average / EMA filtering and rising-edge target detection with latency percentiles
+- UDP streaming over a CRC-16 checked binary protocol, with a C99 codec shared by a pure-C receiver
+- CI on Linux & macOS (GCC/Clang) with ThreadSanitizer and ASan/UBSan
 
 ### 🏎️ [F1Hub](https://github.com/ofekchincholiker/F1Hub)
 Formula 1 prediction & analysis platform
@@ -27,9 +34,14 @@ Classic brick-breaker game built in Java — OOP course @ Bar-Ilan University
 
 ## 🛠️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
